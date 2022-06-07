@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+h2 {
+    color: aquamarine;
+    text-decoration: underline;
+
+
+}
+
+li {
+    list-style-type: circle;
+}
+
+
+.title {
+    font-size: 45px;
+    color: rgb(13, 96, 68);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+}
+
+.about-html {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+}
+
+.browser {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+}
+
+.elements {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+
+}
+
+.section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+}
+
+.article {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+}
+
+.header {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+
+}
+
+.footer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 90px;
+}
